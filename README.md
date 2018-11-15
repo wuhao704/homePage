@@ -2,6 +2,8 @@
 Home page for browser.
 You can use this web page as your default your home page if you are not satisfied your default home page of your browser.
 
+![image](https://github.com/wuhao704/homePage/blob/master/demo.png)
+
 # Highlights
 Free, no ads.
 
